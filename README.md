@@ -24,9 +24,9 @@ A responsive front-end clone of Amazon's homepage, built with HTML, CSS, and Jav
 - Font Awesome
 
 ## Project Structure
-AmazonClone/
-├── home.html # Main HTML file
-├── style.css # All styling
-├── script.js # Slider and interactive features
-├── images/ # Product images, banners, and icons
+AmazonClone/<br>
+├── home.html # Main HTML file<br>
+├── style.css # All styling<br>
+├── script.js # Slider and interactive features<br>
+├── images/ # Product images, banners, and icons<br>
 └── README.md # Project documentation
